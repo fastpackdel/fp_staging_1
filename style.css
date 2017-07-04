@@ -41,3 +41,20 @@ a{
 	font-weight: bold;
 	color: #8e44ad;
 }
+
+@media screen and (max-width: 460px){
+
+	h1{
+		font-size: 35px;
+	}
+	h3{
+		font-size: 26px;
+	}
+	.container-wrap{
+		padding: 10px 20px;
+	}
+	.fo > a{
+		display: block;
+	}
+
+}
